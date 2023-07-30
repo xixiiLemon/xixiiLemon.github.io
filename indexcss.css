@@ -1,6 +1,10 @@
+*{
+	color: white;
+}
 body{
 	background-color: black;
 }
+
 #a1{
 	color: orange;
 	font-size: 14px;
